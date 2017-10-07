@@ -1,0 +1,5 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.pdb

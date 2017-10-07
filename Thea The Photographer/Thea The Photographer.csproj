@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A285804-36BE-4D28-98AF-329AEC2B7EF9}</ProjectGuid>
+    <ProjectGuid>{0B40517B-5FB4-4F3B-B8A2-C9807290EDB2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Convert_Speed_Units</RootNamespace>
-    <AssemblyName>Convert Speed Units</AssemblyName>
+    <RootNamespace>Thea_The_Photographer</RootNamespace>
+    <AssemblyName>Thea_The_Photographer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

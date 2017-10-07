@@ -1,0 +1,5 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Rectangle Properties\obj\Debug\Rectangle Properties.pdb

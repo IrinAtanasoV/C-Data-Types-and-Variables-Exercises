@@ -1,0 +1,5 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Comparing Floats\bin\Debug\Comparing Floats.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Comparing Floats\bin\Debug\Comparing Floats.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Comparing Floats\obj\Debug\Comparing Floats.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Comparing Floats\obj\Debug\Comparing Floats.pdb

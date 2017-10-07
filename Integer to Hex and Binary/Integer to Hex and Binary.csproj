@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A285804-36BE-4D28-98AF-329AEC2B7EF9}</ProjectGuid>
+    <ProjectGuid>{EFE85C18-097B-48D2-9057-C36CAE33CF87}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Convert_Speed_Units</RootNamespace>
-    <AssemblyName>Convert Speed Units</AssemblyName>
+    <RootNamespace>Integer_to_Hex_and_Binary</RootNamespace>
+    <AssemblyName>Integer to Hex and Binary</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
