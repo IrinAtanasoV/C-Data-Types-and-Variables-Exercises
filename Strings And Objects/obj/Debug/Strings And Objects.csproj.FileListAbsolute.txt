@@ -1,0 +1,5 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Strings And Objects\bin\Debug\Strings And Objects.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Strings And Objects\bin\Debug\Strings And Objects.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Strings And Objects\bin\Debug\Strings And Objects.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Strings And Objects\obj\Debug\Strings And Objects.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Strings And Objects\obj\Debug\Strings And Objects.pdb

@@ -1,0 +1,6 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Centuries to Nanoseconds\obj\Debug\Centuries to Nanoseconds.pdb

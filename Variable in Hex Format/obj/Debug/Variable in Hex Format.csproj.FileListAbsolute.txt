@@ -1,0 +1,6 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Variable in Hex Format\bin\Debug\Variable in Hex Format.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Variable in Hex Format\bin\Debug\Variable in Hex Format.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Variable in Hex Format\bin\Debug\Variable in Hex Format.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Variable in Hex Format\obj\Debug\Variable in Hex Format.csprojResolveAssemblyReference.cache
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Variable in Hex Format\obj\Debug\Variable in Hex Format.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Variable in Hex Format\obj\Debug\Variable in Hex Format.pdb

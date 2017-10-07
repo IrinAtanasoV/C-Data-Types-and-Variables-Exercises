@@ -1,0 +1,6 @@
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Reversed chars\obj\Debug\Reversed chars.csprojResolveAssemblyReference.cache
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Reversed chars\bin\Debug\Reversed chars.exe.config
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Reversed chars\bin\Debug\Reversed chars.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Reversed chars\bin\Debug\Reversed chars.pdb
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Reversed chars\obj\Debug\Reversed chars.exe
+C:\Users\Irin Atanasov\Documents\GitHub\DataTypesAndVaiables exercises\Reversed chars\obj\Debug\Reversed chars.pdb
